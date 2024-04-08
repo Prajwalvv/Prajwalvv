@@ -24,13 +24,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **AI StockSense**
 
 - 🌱 I’m currently learning **LLM**
 
 - 👨‍💻 All of my projects are soon going to be available.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, Swift and Flutter**
 
 - 📫 How to reach me **iamvv2024@gmail.com**
 
