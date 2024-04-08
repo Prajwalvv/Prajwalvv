@@ -91,5 +91,5 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Embrace the future with innovation, drive, and a relentless pursuit of excellence.</b> :)</em>
+<em><b>Embrace the future with innovation, drive, and a relentless pursuit of excellence.</b> :)</em>
 
