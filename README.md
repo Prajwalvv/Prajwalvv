@@ -3,11 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Prajwal V V</h1>
 <p align="center">I'm a visionary driven by the relentless pursuit of innovation, constantly developing cutting-edge software, apps, and algorithms using machine learning. With a deep-rooted passion for AI, I strive to create groundbreaking solutions that redefine the possibilities of technology. My entrepreneurial spirit fuels my drive to challenge the status quo and bring new ideas to life, shaping the future of tomorrow.</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Flutter | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
