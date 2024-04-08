@@ -1,19 +1,8 @@
-# Hi there
-
-I'm a visionary driven by the relentless pursuit of innovation, constantly developing cutting-edge software, apps, and algorithms using machine learning. With a deep-rooted passion for AI, I strive to create groundbreaking solutions that redefine the possibilities of technology. My entrepreneurial spirit fuels my drive to challenge the status quo and bring new ideas to life, shaping the future of tomorrow.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,py,matlab,tensorflow,docker,dart,c,vim,anaconda,androidstudio,swift,atom,azure,blender,cs,cpp,firebase,gcp,aiscript,ps,xd,figma,gradle,vscode,r,ai" />
-  </a>
-</p>
-
 ![logo](supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Prajwal V V</h1>
-<h3 align="center">A passionate Programmer from </h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I'm a visionary driven by the relentless pursuit of innovation, constantly developing cutting-edge software, apps, and algorithms using machine learning. With a deep-rooted passion for AI, I strive to create groundbreaking solutions that redefine the possibilities of technology. My entrepreneurial spirit fuels my drive to challenge the status quo and bring new ideas to life, shaping the future of tomorrow.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
