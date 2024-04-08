@@ -16,10 +16,10 @@
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/matlab-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
 </div>
