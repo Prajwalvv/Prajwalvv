@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **iamvv2024@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/prajwal-v-v/overlay/1712600385592/single-media-viewer?type=DOCUMENT&profileId=ACoAADs8Nt4BVzxsfk4DZ7WmGb1Dn_NfRTtY4FM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYzbaFrcbT0S2OmCl%2FP%2F0Dw%3D%3D)
 
 <br>
 <h3 align="left">Connect with me:</h3>
