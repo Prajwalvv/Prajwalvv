@@ -4,6 +4,7 @@ I'm a visionary driven by the relentless pursuit of innovation, constantly devel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,py,matlab,docker,dart,c,vim,anaconda,androidstudio,swift,atom,azure,blender,cs,cpp,firebase,gcp,ps,xd,vscode,r,ai" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,py,matlab,tensorflow,docker,dart,c,vim,anaconda,androidstudio,swift,atom,azure,blender,cs,cpp,firebase,gcp,aiscript,ps,xd,figma,gradle,vscode,r,ai" />
   </a>
 </p>
+https://github.com/milaan9/milaan9/blob/main/Developer.gif?raw=true![Uploading image.png…]()
