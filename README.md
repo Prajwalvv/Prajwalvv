@@ -1,94 +1,71 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
-<h1 align="center">Hi 👋, I'm Prajwal V V</h1>
-<p align="center">I'm a visionary driven by the relentless pursuit of innovation, constantly developing cutting-edge software, apps, and algorithms using machine learning. With a deep-rooted passion for AI, I strive to create groundbreaking solutions that redefine the possibilities of technology. My entrepreneurial spirit fuels my drive to challenge the status quo and bring new ideas to life, shaping the future of tomorrow.</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 I’m currently working on **AI StockSense**
-
-- 🌱 I’m currently learning **LLM**
-
-- 👨‍💻 All of my projects are soon going to be available.
-
-- 💬 Ask me about **Java, Python, Swift and Flutter**
-
-- 📫 How to reach me **iamvv2024@gmail.com**
-
-- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/prajwal-v-v/overlay/1712600385592/single-media-viewer?type=DOCUMENT&profileId=ACoAADs8Nt4BVzxsfk4DZ7WmGb1Dn_NfRTtY4FM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYzbaFrcbT0S2OmCl%2FP%2F0Dw%3D%3D)
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prajwal-v-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prajwal.v.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,swift,r,java,nodejs,py" />
-  </a>
+<h1 align="center">Prajwal V V</h1>
+<p align="center">
+  AI Systems Architect • Product Strategist • Technical Founder  
+  <br>
+  Building platforms that simplify complexity, automate intelligence, and ship with precision.
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
+---
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
+### 🚧 Current Ventures
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
+- **TheAnalystAI**  
+  Intelligent financial research infrastructure for traders and businesses.  
+  Focus: Custom stock analysis reports, probabilistic forecasting, LLM-driven comparison tools.
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
+- **Rylvo**  
+  AI agent infrastructure for modern businesses.  
+  Focus: Modular agent deployment, instruction chaining, API logic routing, enterprise automation.
 
-<br/>
+- **AIshoply**  
+  Marketplace for AI tools, execution APIs, and private agent workflows.  
+  Focus: Operational layer for AI creators and consumers, not just static prompt libraries.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
+
+### 🧠 Domain Expertise
+
+- **AI Stack:** GPT-4o, Claude, Perplexity API, LangChain, Retrieval-Augmented Generation  
+- **Frameworks:** TypeScript, Python, Next.js, React  
+- **Infra & Systems:** Firebase, Supabase, PostgreSQL, Cloudflare, Vercel  
+- **Tooling:** Docker, GitHub Actions, REST/Webhooks, CLI-first workflows  
+- **Data Ops:** Real-time sync, Firestore rules, API logic merging, scalable schema design
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages & Frameworks**
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,swift,nodejs,nextjs,react" />
+  </p>
+
+- **Databases & Infra**
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,vercel,cloudflare,aws" />
+  </p>
+
+- **AI/Automation Tools**
+  <p>
+    <img src="https://skillicons.dev/icons?i=github,docker,postman,vscode" />
+  </p>
+
+---
+
+### 📫 Contact
+
+- **Email:** iamvv2024@gmail.com  
+- **LinkedIn:** [linkedin.com/in/prajwal-v-v](https://linkedin.com/in/prajwal-v-v)  
+
+---
+
+### 📈 GitHub Visuals
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-<em><b>Embrace the future with innovation, drive, and a relentless pursuit of excellence.</b> :)</em>
-
+<em><b>Engineering is execution. Vision is validated in systems — not slides.</b></em>
